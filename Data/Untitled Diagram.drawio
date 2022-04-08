@@ -1,1 +1,172 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T22:16:29.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36" etag="8WwUhw4guLLCI2zBxL5L" version="17.4.1" type="github"><diagram id="wWHne-ShAnKqNN_yMTwA" name="Page-1">5Vvfb9owEP5r8lgU2/n5SKHtNG3SpE7a9ugRA1kDRqkZ0L9+DrGJ7SQjY2lCUx7S+Hw+J/edfZ+vYKHJav+Q4s3yM41IYkE72ltoakEIXAfxP5nkkEtQ4OWCRRpHQqkQPMYvRAhtId3GEXnWFBmlCYs3unBG12syY5oMpynd6WpzmuizbvCClASPM5yUpd/iiC1zaQD9Qv6BxIulnBl4Yd6zwlJZvMnzEkd0p1hFdxaapJSy/G61n5Akc570Sz7uvqb39GApWbMmAwL8Ei1exk9p+NX5dfMchw+fPt4IK79xshUvbE1tKwysKbACkN3f2sp1zHWPCqcurnYccpsPydXujlco3psdpDNTul1HJHse20K3u2XMyOMGz7LeHQ8fLluyVcJbgN/O4ySZ0ISmx7EowiSYz7j8maX0iSg93iwgP+e8R7wLSRnZ1zqpcD2PWUJXhKUHriIGIImWCFdHNHcF9kCqLBXcAyHDItwWJ8sFIvxGgPIPAMFKgMbg6G109PO99PxJggQ6Aqx6NIVaizDNcRRGbhVMmDgAwXZgcoIrgwmVYTK9StbRONuQeGtN10T3ou5y7oX08F10HRs/sp6RK5vTvao5PYhWPieJSlua4Vf+XHSbzsj5uGM4XRD2F70anBQg3AocpCwlCWbxb/1xq8ARM3yhMX+RYrWGehggYOCbv6YYpe6NhiHH0Q1BzzCU+6Fk6Bgrp9e+PHycdsNnH7PvRcDw1g+lp4idrPEKoeP3GRKOpyMJTCQbh4RhyNw6Xjki3HIAcGweRZOmbEkXdI2Tu0JqREGh84nSjQiUX4Sxg2BZeMuoHkbVgQO6Cpymew6sDrDGkfNfO71fzZigQoiAJET8eqvch0NnT45ds/h6y8tBC/TpLLRcfv8GSZRbt1X2hlY4NBYVNNzR+k2ZvkGm0YUp0zUOT6jjnAnKR5nhJ82mIRb0mTRBdZ1h7JS2U1tJhK5IkEPPmsYp5rS/9rYPg5qqg6sUD6ZKwpwIiMZqjQGW+I+ryN9i1cFzrw6owdUdZOidLzz0WnkwuZPrXpgzPWAYsjvOmc47zJnNg6zXoyZwW13dTR3Y15rykMFDzaXQeE0hewRDzdaprt/VsvLeFXTQbgk6YJ+z9NrAVdR3Bgyci8KRG2ge52xlZCsfcBmSmeXA1y13jWVN9QcqnHQiDw+czDoKSx18rQ4YZNbpn8w2KP9c/yEBgWvzq5xsQIcEESnn+VtN1aOjrGjUw/xLDwnQqND5HW+ksKJ8M+CkCI2CjGe3khG52REMwuLjabO4HVNUieE7ARWEnOn4iveRuU23gXE2S+Aps+iTdL1u2y0PXS3ExTq9DDXz6x9nFvxro1Zxdqwrlg+cpN4YJNXrn0w1OB9eP0kF4Or8WnFWe9skVUbK+a+zeH3mRYOjhpdyVIOihl2nuna/O3C1qW4v3at5O2iHof6doPodE1RZDn4nkN7YIwcqGPrQ1/3vtUNR+TwAKVbsUP4PqI5GXYwzbxa/b8jVi1+JoLs/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-08T22:19:50.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36" etag="fE2LRNz4vHafCnXdycfx" version="17.4.1" type="github">
+  <diagram id="wWHne-ShAnKqNN_yMTwA" name="Page-1">
+    <mxGraphModel dx="1920" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-1" value="Исаак Батиров" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="320" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-2" value="Супруга Исаака" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="480" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-3" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8azdgzAkr9T4j-si9GLJ-2" target="8azdgzAkr9T4j-si9GLJ-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="8azdgzAkr9T4j-si9GLJ-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="160" as="sourcePoint" />
+            <mxPoint x="460" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8azdgzAkr9T4j-si9GLJ-2" target="8azdgzAkr9T4j-si9GLJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-7" value="Василий Батиров" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="400" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-8" value="Супруга Василия" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="560" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-9" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8azdgzAkr9T4j-si9GLJ-8" target="8azdgzAkr9T4j-si9GLJ-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="430" as="sourcePoint" />
+            <mxPoint x="520" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8azdgzAkr9T4j-si9GLJ-8" target="8azdgzAkr9T4j-si9GLJ-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-11" value="Филарет Батиров" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="490" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-12" value="Ханум Савлиева" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="650" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-13" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8azdgzAkr9T4j-si9GLJ-12" target="8azdgzAkr9T4j-si9GLJ-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="550" as="sourcePoint" />
+            <mxPoint x="610" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8azdgzAkr9T4j-si9GLJ-12" target="8azdgzAkr9T4j-si9GLJ-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-15" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="400" as="sourcePoint" />
+            <mxPoint x="630.29" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="400" as="sourcePoint" />
+            <mxPoint x="1000" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-17" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539.58" y="280.0000000000001" as="sourcePoint" />
+            <mxPoint x="539.87" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-18" value="Тимофей Батиров" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="150" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="310" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-20" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8azdgzAkr9T4j-si9GLJ-19" target="8azdgzAkr9T4j-si9GLJ-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="750" as="sourcePoint" />
+            <mxPoint x="270" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-21" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="600.0000000000001" as="sourcePoint" />
+            <mxPoint x="290.28999999999996" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-22" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.57999999999993" y="480.0000000000001" as="sourcePoint" />
+            <mxPoint x="199.8699999999999" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-23" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="600" as="sourcePoint" />
+            <mxPoint x="440" y="600.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-26" value="Фила Батиров" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-27" value="Тамара&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="110" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-28" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8azdgzAkr9T4j-si9GLJ-27" target="8azdgzAkr9T4j-si9GLJ-26" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="950" as="sourcePoint" />
+            <mxPoint x="70" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-29" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="800.0000000000001" as="sourcePoint" />
+            <mxPoint x="90.28999999999996" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8azdgzAkr9T4j-si9GLJ-30" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-0.42000000000007276" y="680.0000000000001" as="sourcePoint" />
+            <mxPoint x="-0.13000000000010914" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtYaq4S0Bj3diOGqPEKm-1" value="Фила Батиров" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-218" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UtYaq4S0Bj3diOGqPEKm-2" value="Александра Батирова" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="-58" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UtYaq4S0Bj3diOGqPEKm-3" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UtYaq4S0Bj3diOGqPEKm-2" target="UtYaq4S0Bj3diOGqPEKm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-148" y="1150" as="sourcePoint" />
+            <mxPoint x="-98" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtYaq4S0Bj3diOGqPEKm-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-78" y="1000" as="sourcePoint" />
+            <mxPoint x="-77.71000000000004" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtYaq4S0Bj3diOGqPEKm-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2" y="800" as="sourcePoint" />
+            <mxPoint x="162" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtYaq4S0Bj3diOGqPEKm-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1.4699999999999136" y="880" as="sourcePoint" />
+            <mxPoint x="1.7599999999998772" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtYaq4S0Bj3diOGqPEKm-8" value="Виктория Батирова" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="102" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UtYaq4S0Bj3diOGqPEKm-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="161.47" y="880" as="sourcePoint" />
+            <mxPoint x="161.75999999999996" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
